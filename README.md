@@ -4,3 +4,5 @@ KEG/IT/2025/F/0071 - Hafsa, KEG/IT/2025/F/0058 - Asma " so Hafsa-  0 to 4 number
 Afla nad Asma arithmetic +, −, ×, ÷, =, C,
 and lastly for Risada CE, ±, backspace. I am Risada Member 5. I am responsible for creating and Managing the Github respositry.
 adding team members,testing and final submission. and Responsible for devloping the fuction buttons of calculator too.
+Iam Afla member 2.
+Iam responsible for arithmetic operators +,-, ×
